@@ -1,0 +1,11 @@
+name = "sgdooi"
+main = "_worker.js"
+compatibility_date = "2027-05-26"
+# node_compat = true
+workers_dev = true
+
+[vars]
+PROXYIP = "178.128.80.43:443"
+UUID = "42c00964-67d8-4ec8-8883-dcb2be629585"
+# SOCKS5 = "127.0.0.1:1080"
+# SOCKS5_RELAY = "true"
